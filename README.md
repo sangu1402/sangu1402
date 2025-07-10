@@ -5,11 +5,11 @@
 
 - 🤝 I’m looking for **Internships/ Coops in Data Analytics, Data Engineer, Data Scientist**
 
-- 👨‍💻 All of my projects are available at [https://affectionate-leakey2-mca9h.view-3.tempo-dev.app/](https://affectionate-leakey2-mca9h.view-3.tempo-dev.app/)
+- 👨‍💻 All of my projects are available at [https://sangayya-hiremath.vercel.app/](https://sangayya-hiremath.vercel.app/)
 
 - 📫 How to reach me **hiremath.sa@northeastern.edu**
 
-- 📄 Know about my experiences [https://affectionate-leakey2-mca9h.view-3.tempo-dev.app/Resume_DAA.pdf](https://affectionate-leakey2-mca9h.view-3.tempo-dev.app/Sangayya_Hiremath_DA.pdf)
+- 📄 Know about my experiences [https://sangayya-hiremath.vercel.app/Sangayya_Hiremath_DA.pdf](https://sangayya-hiremath.vercel.app/Sangayya_Hiremath_DA.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
