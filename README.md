@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sangayya Hiremath</h1>
-<h3 align="center">A passionate Data Analyst, Data Scientist currently pursuing MS in Data Analytics at Northeastern University.</h3>
+<h3 align="center">Data Engineer with 5 years of experience, holding an MS in Data Analytics from Northeastern University</h3>
 
-- 🔭 I worked for 4.5 years in **Tata Consultancy Services**
+- 🔭 Previously worked at **Tata Consultancy Services (5 years)**, contributing to enterprise projects for clients such as **Rolls-Royce, AXA Insurance UK, Johnson & Johnson, and Standard Chartered Bank**.
 
-- 🤝 I’m looking for **Internships/ Coops in Data Analytics, Data Engineer, Data Scientist**
+- 🤝 I’m looking for **full-time Data Engineer/Data Analytics roles**
 
 - 👨‍💻 All of my projects are available at [https://sangayya-hiremath.vercel.app/](https://sangayya-hiremath.vercel.app/)
 
 - 📫 How to reach me **hiremath.sa@northeastern.edu**
-
-- 📄 Know about my experiences [https://sangayya-hiremath.vercel.app/Sangayya_Hiremath_DA.pdf](https://sangayya-hiremath.vercel.app/Sangayya_Hiremath_DA.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
